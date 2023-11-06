@@ -4,6 +4,7 @@
 # Geting started
 First run the code in the server :
 Open http://127.0.0.1:5500/index.html with your browser to see the result.
+Then you will re-directed to the home page of the website and you can go to movies and Tv shows by clicking it.
 you can able to see and view video by clicking it.
 
 # Learn more
